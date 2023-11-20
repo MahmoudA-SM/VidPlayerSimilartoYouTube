@@ -1,0 +1,1 @@
+This is the code for a video player similar to a video player. When you run it, you will see 3 buttons at the bottom-center: Select Media, Play, and Pause. Pretty much self explanatory. The GUI was built using FXML. 
